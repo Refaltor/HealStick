@@ -1,0 +1,12 @@
+---
+#ID que vous voulez de l'item modifier en HealStick
+ID: 369
+Vie maximum: 10
+#ces la vie Maximum pour utiliser le HealStick si le joueur esh au dessus de 10 en vieil pourra pas l'utiliser !
+Vie ajouté: 2
+#la vie ajouté au joueur quand il utilise le HealStick
+Remove HealStick: true
+#Si ces sur true sa retire le HealStick une fois utiliser si c sur false ces une utilisation infini !
+Cooldown: true
+temps: 20
+...
